@@ -4,7 +4,7 @@
 <p align="center">I’ve successfully completed multiple projects—both individually and as part of a team—that have strengthened my software development and problem-solving abilities. My final year project, focused on image segmentation, has been accepted for presentation at the All India Seminar. I’m always eager to learn and make an impact through my work.</p>
 
 <h3 align="left">Current Work:</h3>
-- 🔭 I’m currently working on **Lung Segmentation Project** (Details private)
+- 🔭 I’m currently working on Lung Segmentation Project (Details Private Major Project)
 
 - 🌱 I’m currently learning **Intermediate Android Development**
 
