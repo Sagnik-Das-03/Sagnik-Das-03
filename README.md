@@ -6,7 +6,7 @@
 <h3 align="left">Current Work:</h3>
 - 🔭 I’m currently working on **Lung Segmentation Project** (Details private)
 
-- 🌱 I’m currently learning **Advanced Android Development**
+- 🌱 I’m currently learning **Intermediate Android Development**
 
 - 💬 Ask me about **Android, Image Processing, Image Segmentation**
 
